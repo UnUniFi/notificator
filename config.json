@@ -1,0 +1,7 @@
+{
+    "rest_host": "",
+    "tendermint_rpc_host": "",
+    "mailgun_domain": "",
+    "mailgun_api_key": "",
+    "mailgun_sender": ""
+}
