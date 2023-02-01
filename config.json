@@ -1,4 +1,5 @@
 {
+    "port": 8080,
     "rest_host": "",
     "tendermint_rpc_host": "",
     "mailgun_domain": "",
